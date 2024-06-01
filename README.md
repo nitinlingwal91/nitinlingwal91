@@ -1,15 +1,7 @@
-### Hi there! I'm Nitin lingwal, a data analyst from India
+## 👋 Hi there! I'm Nitin lingwal
+### A self-taught Data Science Enthusiast from India
 
-
-- 👋 Hi, I’m @nitinlingwal91
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-nitinlingwal91/nitinlingwal91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm currently pursuing my master's degree in MCA from Uttaranchal university 
+🔭 I’m currently working on Data Analytics, Python, Machine Learning & Statistics
+🛩️ Exploring Data Science, NLP, Deep Learning & Artificial Intelligence
+⚡ Fun fact:  Piano 🎹 Football ⚽
