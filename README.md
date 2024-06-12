@@ -1,12 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nitin
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nitin Lingwal
 =============================================================================================================================
 
-Data Analyst
+🚀 A Self-Taught Data Science Enthusiast From India 
 ------------
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [Nitinlingwal91@gmail.com](mailto:Nitinlingwal91@gmail.com)
-* 🧠  I'm learning Machine Learning
+* 🧠  I’m currently working on Data Analytics, Python, Machine Learning & Statistics
+* 🛩️ Exploring Data Science, NLP, Deep Learning & Artificial Intelligence
+* 💬 Ask me about var topics = [ "Python", "SQL", "Statistics", "Tableau", "Data Analytics" ]
+* ⚡ Fun fact:  Piano 🎹  football ⚽
 
 ### Skills
 
