@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ✉️  You can contact me at [Nitinlingwal91@gmail.com](mailto:Nitinlingwal91@gmail.com)
 * 🧠  I’m currently working on Data Analytics, Python, Machine Learning & Statistics
 * 🛩️ Exploring Data Science, NLP, Deep Learning & Artificial Intelligence
-* 💬 Ask me about var topics = [ "Python", "SQL", "Statistics", "Tableau", "Data Analytics" ]
+* 💬 Ask me about var topics = [ "Python", "SQL", "Statistics", "PowerBI", "Data Analytics" ]
 * ⚡ Fun fact:  Piano 🎹  football ⚽
 
 ### Skills
